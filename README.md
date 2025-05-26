@@ -1,5 +1,4 @@
-# Virus! Card Game – Digital Adaptation
-
+# Virus! Card Game
 **What is Virus!?**
 
 Virus! is a fun and fast-paced card game where players compete to be the first to build a healthy body with four different organs. During the game, players can infect opponents' organs, cure infections, immunize their own, and use special treatment cards to change the course of the match.
